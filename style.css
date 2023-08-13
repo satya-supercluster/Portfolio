@@ -160,7 +160,7 @@ header ion-icon{
     justify-content: center;
 }
 .btn{
-    margin:20px 0 10px 0;
+    margin:50px 0 30px 0;
     padding: 10px 20px;
     border:none;
     font-size: 1.1em;
@@ -169,6 +169,7 @@ header ion-icon{
     background-color: blueviolet;
     border-radius:5px;
     cursor:pointer;
+    text-decoration: none;
 }
 .btn:hover{
     background-color: #fff;
@@ -466,7 +467,7 @@ form .btn{
         transform: translateY(40%);
     }
     #home .write h1{
-        font-size: 1em;
+        font-size: 1.2em;
     }
     #about{
         padding:20px;
@@ -506,10 +507,10 @@ form .btn{
 }
 @media (max-width:350px){
     #home .write h1{
-        font-size: .8em;
+        font-size: 1em;
     }
     #home .write p{
-        font-size: .7em;
+        font-size: .8em;
     }
     #education img{
         height:150px;
