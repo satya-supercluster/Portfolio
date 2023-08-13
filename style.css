@@ -15,7 +15,7 @@ header{
     justify-content: space-between;
     align-items: center;
     /* background-color:  rgb(7, 58, 47); */
-    backdrop-filter: blur(20px);
+    backdrop-filter:blur(20px);
     padding:10px 0px;
     position:sticky;
     top:0;
