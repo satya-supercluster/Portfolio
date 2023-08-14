@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color:#fff;
+    scroll-behavior: smooth;
+    
 }
 body{
     min-height: 100vh;
