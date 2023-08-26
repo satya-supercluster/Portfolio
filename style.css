@@ -172,10 +172,12 @@ header ion-icon{
     border-radius:5px;
     cursor:pointer;
     text-decoration: none;
+    box-shadow: 0 0 5px cyan,0 0 55px cyan;
 }
 .btn:hover{
     background-color: #fff;
     color:blueviolet;
+    box-shadow:0 0 5px orange,0 0 25px orange,0 0 50px orange
 }
 .box{
     width:100vw;
